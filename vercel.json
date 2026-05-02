@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/siegae-educacion/browser",
+  "outputDirectory": "dist/Siegae-Educacion/browser",
   "rewrites": [
     {
       "source": "/(.*)",
